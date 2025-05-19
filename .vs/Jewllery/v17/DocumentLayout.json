@@ -1,0 +1,667 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dell\\source\\repos\\Jewllery\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BC0EFDA6-4779-44A4-A804-FA5EC2561CCB}|Jewllery\\Jewllery.csproj|c:\\users\\dell\\source\\repos\\jewllery\\jewllery\\adminorders.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{BC0EFDA6-4779-44A4-A804-FA5EC2561CCB}|Jewllery\\Jewllery.csproj|solutionrelative:jewllery\\adminorders.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC0EFDA6-4779-44A4-A804-FA5EC2561CCB}|Jewllery\\Jewllery.csproj|C:\\Users\\Dell\\source\\repos\\Jewllery\\jewllery\\homepage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{BC0EFDA6-4779-44A4-A804-FA5EC2561CCB}|Jewllery\\Jewllery.csproj|solutionrelative:jewllery\\homepage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC0EFDA6-4779-44A4-A804-FA5EC2561CCB}|Jewllery\\Jewllery.csproj|C:\\Users\\Dell\\source\\repos\\Jewllery\\jewllery\\adminorders.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC0EFDA6-4779-44A4-A804-FA5EC2561CCB}|Jewllery\\Jewllery.csproj|solutionrelative:jewllery\\adminorders.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC0EFDA6-4779-44A4-A804-FA5EC2561CCB}|Jewllery\\Jewllery.csproj|C:\\Users\\Dell\\source\\repos\\Jewllery\\jewllery\\cart1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{BC0EFDA6-4779-44A4-A804-FA5EC2561CCB}|Jewllery\\Jewllery.csproj|solutionrelative:jewllery\\cart1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC0EFDA6-4779-44A4-A804-FA5EC2561CCB}|Jewllery\\Jewllery.csproj|C:\\Users\\Dell\\source\\repos\\Jewllery\\jewllery\\myorders.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{BC0EFDA6-4779-44A4-A804-FA5EC2561CCB}|Jewllery\\Jewllery.csproj|solutionrelative:jewllery\\myorders.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC0EFDA6-4779-44A4-A804-FA5EC2561CCB}|Jewllery\\Jewllery.csproj|C:\\Users\\Dell\\source\\repos\\Jewllery\\jewllery\\cart1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC0EFDA6-4779-44A4-A804-FA5EC2561CCB}|Jewllery\\Jewllery.csproj|solutionrelative:jewllery\\cart1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC0EFDA6-4779-44A4-A804-FA5EC2561CCB}|Jewllery\\Jewllery.csproj|C:\\Users\\Dell\\source\\repos\\Jewllery\\jewllery\\checkout.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC0EFDA6-4779-44A4-A804-FA5EC2561CCB}|Jewllery\\Jewllery.csproj|solutionrelative:jewllery\\checkout.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC0EFDA6-4779-44A4-A804-FA5EC2561CCB}|Jewllery\\Jewllery.csproj|C:\\Users\\Dell\\source\\repos\\Jewllery\\jewllery\\checkout.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{BC0EFDA6-4779-44A4-A804-FA5EC2561CCB}|Jewllery\\Jewllery.csproj|solutionrelative:jewllery\\checkout.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC0EFDA6-4779-44A4-A804-FA5EC2561CCB}|Jewllery\\Jewllery.csproj|C:\\Users\\Dell\\source\\repos\\Jewllery\\jewllery\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{BC0EFDA6-4779-44A4-A804-FA5EC2561CCB}|Jewllery\\Jewllery.csproj|solutionrelative:jewllery\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC0EFDA6-4779-44A4-A804-FA5EC2561CCB}|Jewllery\\Jewllery.csproj|C:\\Users\\Dell\\source\\repos\\Jewllery\\jewllery\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC0EFDA6-4779-44A4-A804-FA5EC2561CCB}|Jewllery\\Jewllery.csproj|solutionrelative:jewllery\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC0EFDA6-4779-44A4-A804-FA5EC2561CCB}|Jewllery\\Jewllery.csproj|C:\\Users\\Dell\\source\\repos\\Jewllery\\jewllery\\homepage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC0EFDA6-4779-44A4-A804-FA5EC2561CCB}|Jewllery\\Jewllery.csproj|solutionrelative:jewllery\\homepage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC0EFDA6-4779-44A4-A804-FA5EC2561CCB}|Jewllery\\Jewllery.csproj|C:\\Users\\Dell\\source\\repos\\Jewllery\\jewllery\\myorders.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC0EFDA6-4779-44A4-A804-FA5EC2561CCB}|Jewllery\\Jewllery.csproj|solutionrelative:jewllery\\myorders.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC0EFDA6-4779-44A4-A804-FA5EC2561CCB}|Jewllery\\Jewllery.csproj|C:\\Users\\Dell\\source\\repos\\Jewllery\\jewllery\\wedding.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC0EFDA6-4779-44A4-A804-FA5EC2561CCB}|Jewllery\\Jewllery.csproj|solutionrelative:jewllery\\wedding.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC0EFDA6-4779-44A4-A804-FA5EC2561CCB}|Jewllery\\Jewllery.csproj|C:\\Users\\Dell\\source\\repos\\Jewllery\\jewllery\\wedding.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{BC0EFDA6-4779-44A4-A804-FA5EC2561CCB}|Jewllery\\Jewllery.csproj|solutionrelative:jewllery\\wedding.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC0EFDA6-4779-44A4-A804-FA5EC2561CCB}|Jewllery\\Jewllery.csproj|C:\\Users\\Dell\\source\\repos\\Jewllery\\jewllery\\genz.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC0EFDA6-4779-44A4-A804-FA5EC2561CCB}|Jewllery\\Jewllery.csproj|solutionrelative:jewllery\\genz.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC0EFDA6-4779-44A4-A804-FA5EC2561CCB}|Jewllery\\Jewllery.csproj|C:\\Users\\Dell\\source\\repos\\Jewllery\\jewllery\\genz.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{BC0EFDA6-4779-44A4-A804-FA5EC2561CCB}|Jewllery\\Jewllery.csproj|solutionrelative:jewllery\\genz.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC0EFDA6-4779-44A4-A804-FA5EC2561CCB}|Jewllery\\Jewllery.csproj|C:\\Users\\Dell\\source\\repos\\Jewllery\\jewllery\\diamond.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC0EFDA6-4779-44A4-A804-FA5EC2561CCB}|Jewllery\\Jewllery.csproj|solutionrelative:jewllery\\diamond.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC0EFDA6-4779-44A4-A804-FA5EC2561CCB}|Jewllery\\Jewllery.csproj|C:\\Users\\Dell\\source\\repos\\Jewllery\\jewllery\\diamond.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{BC0EFDA6-4779-44A4-A804-FA5EC2561CCB}|Jewllery\\Jewllery.csproj|solutionrelative:jewllery\\diamond.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC0EFDA6-4779-44A4-A804-FA5EC2561CCB}|Jewllery\\Jewllery.csproj|C:\\Users\\Dell\\source\\repos\\Jewllery\\jewllery\\gold.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC0EFDA6-4779-44A4-A804-FA5EC2561CCB}|Jewllery\\Jewllery.csproj|solutionrelative:jewllery\\gold.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC0EFDA6-4779-44A4-A804-FA5EC2561CCB}|Jewllery\\Jewllery.csproj|C:\\Users\\Dell\\source\\repos\\Jewllery\\jewllery\\gold.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{BC0EFDA6-4779-44A4-A804-FA5EC2561CCB}|Jewllery\\Jewllery.csproj|solutionrelative:jewllery\\gold.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC0EFDA6-4779-44A4-A804-FA5EC2561CCB}|Jewllery\\Jewllery.csproj|C:\\Users\\Dell\\source\\repos\\Jewllery\\jewllery\\bracelet.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC0EFDA6-4779-44A4-A804-FA5EC2561CCB}|Jewllery\\Jewllery.csproj|solutionrelative:jewllery\\bracelet.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC0EFDA6-4779-44A4-A804-FA5EC2561CCB}|Jewllery\\Jewllery.csproj|C:\\Users\\Dell\\source\\repos\\Jewllery\\jewllery\\bracelet.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{BC0EFDA6-4779-44A4-A804-FA5EC2561CCB}|Jewllery\\Jewllery.csproj|solutionrelative:jewllery\\bracelet.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC0EFDA6-4779-44A4-A804-FA5EC2561CCB}|Jewllery\\Jewllery.csproj|C:\\Users\\Dell\\source\\repos\\Jewllery\\jewllery\\images\\mangalsutra.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC0EFDA6-4779-44A4-A804-FA5EC2561CCB}|Jewllery\\Jewllery.csproj|solutionrelative:jewllery\\images\\mangalsutra.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC0EFDA6-4779-44A4-A804-FA5EC2561CCB}|Jewllery\\Jewllery.csproj|C:\\Users\\Dell\\source\\repos\\Jewllery\\jewllery\\images\\mangalsutra.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{BC0EFDA6-4779-44A4-A804-FA5EC2561CCB}|Jewllery\\Jewllery.csproj|solutionrelative:jewllery\\images\\mangalsutra.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC0EFDA6-4779-44A4-A804-FA5EC2561CCB}|Jewllery\\Jewllery.csproj|C:\\Users\\Dell\\source\\repos\\Jewllery\\jewllery\\earring.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{BC0EFDA6-4779-44A4-A804-FA5EC2561CCB}|Jewllery\\Jewllery.csproj|solutionrelative:jewllery\\earring.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC0EFDA6-4779-44A4-A804-FA5EC2561CCB}|Jewllery\\Jewllery.csproj|C:\\Users\\Dell\\source\\repos\\Jewllery\\jewllery\\rings.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC0EFDA6-4779-44A4-A804-FA5EC2561CCB}|Jewllery\\Jewllery.csproj|solutionrelative:jewllery\\rings.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC0EFDA6-4779-44A4-A804-FA5EC2561CCB}|Jewllery\\Jewllery.csproj|C:\\Users\\Dell\\source\\repos\\Jewllery\\jewllery\\rings.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{BC0EFDA6-4779-44A4-A804-FA5EC2561CCB}|Jewllery\\Jewllery.csproj|solutionrelative:jewllery\\rings.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC0EFDA6-4779-44A4-A804-FA5EC2561CCB}|Jewllery\\Jewllery.csproj|C:\\Users\\Dell\\source\\repos\\Jewllery\\jewllery\\pendant.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC0EFDA6-4779-44A4-A804-FA5EC2561CCB}|Jewllery\\Jewllery.csproj|solutionrelative:jewllery\\pendant.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC0EFDA6-4779-44A4-A804-FA5EC2561CCB}|Jewllery\\Jewllery.csproj|C:\\Users\\Dell\\source\\repos\\Jewllery\\jewllery\\orderconfirmation.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{BC0EFDA6-4779-44A4-A804-FA5EC2561CCB}|Jewllery\\Jewllery.csproj|solutionrelative:jewllery\\orderconfirmation.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC0EFDA6-4779-44A4-A804-FA5EC2561CCB}|Jewllery\\Jewllery.csproj|C:\\Users\\Dell\\source\\repos\\Jewllery\\jewllery\\orderconfirmation.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC0EFDA6-4779-44A4-A804-FA5EC2561CCB}|Jewllery\\Jewllery.csproj|solutionrelative:jewllery\\orderconfirmation.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC0EFDA6-4779-44A4-A804-FA5EC2561CCB}|Jewllery\\Jewllery.csproj|C:\\Users\\Dell\\source\\repos\\Jewllery\\jewllery\\order.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC0EFDA6-4779-44A4-A804-FA5EC2561CCB}|Jewllery\\Jewllery.csproj|solutionrelative:jewllery\\order.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC0EFDA6-4779-44A4-A804-FA5EC2561CCB}|Jewllery\\Jewllery.csproj|C:\\Users\\Dell\\source\\repos\\Jewllery\\jewllery\\bangle.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC0EFDA6-4779-44A4-A804-FA5EC2561CCB}|Jewllery\\Jewllery.csproj|solutionrelative:jewllery\\bangle.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC0EFDA6-4779-44A4-A804-FA5EC2561CCB}|Jewllery\\Jewllery.csproj|C:\\Users\\Dell\\source\\repos\\Jewllery\\jewllery\\wedding.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC0EFDA6-4779-44A4-A804-FA5EC2561CCB}|Jewllery\\Jewllery.csproj|solutionrelative:jewllery\\wedding.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC0EFDA6-4779-44A4-A804-FA5EC2561CCB}|Jewllery\\Jewllery.csproj|C:\\Users\\Dell\\source\\repos\\Jewllery\\jewllery\\bracelet.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC0EFDA6-4779-44A4-A804-FA5EC2561CCB}|Jewllery\\Jewllery.csproj|solutionrelative:jewllery\\bracelet.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC0EFDA6-4779-44A4-A804-FA5EC2561CCB}|Jewllery\\Jewllery.csproj|C:\\Users\\Dell\\source\\repos\\Jewllery\\jewllery\\bangle.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{BC0EFDA6-4779-44A4-A804-FA5EC2561CCB}|Jewllery\\Jewllery.csproj|solutionrelative:jewllery\\bangle.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC0EFDA6-4779-44A4-A804-FA5EC2561CCB}|Jewllery\\Jewllery.csproj|C:\\Users\\Dell\\source\\repos\\Jewllery\\jewllery\\pendant.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{BC0EFDA6-4779-44A4-A804-FA5EC2561CCB}|Jewllery\\Jewllery.csproj|solutionrelative:jewllery\\pendant.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC0EFDA6-4779-44A4-A804-FA5EC2561CCB}|Jewllery\\Jewllery.csproj|C:\\Users\\Dell\\source\\repos\\Jewllery\\jewllery\\earring.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC0EFDA6-4779-44A4-A804-FA5EC2561CCB}|Jewllery\\Jewllery.csproj|solutionrelative:jewllery\\earring.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC0EFDA6-4779-44A4-A804-FA5EC2561CCB}|Jewllery\\Jewllery.csproj|C:\\Users\\Dell\\source\\repos\\Jewllery\\jewllery\\manglasutra.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC0EFDA6-4779-44A4-A804-FA5EC2561CCB}|Jewllery\\Jewllery.csproj|solutionrelative:jewllery\\manglasutra.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC0EFDA6-4779-44A4-A804-FA5EC2561CCB}|Jewllery\\Jewllery.csproj|C:\\Users\\Dell\\source\\repos\\Jewllery\\jewllery\\manglasutra.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{BC0EFDA6-4779-44A4-A804-FA5EC2561CCB}|Jewllery\\Jewllery.csproj|solutionrelative:jewllery\\manglasutra.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC0EFDA6-4779-44A4-A804-FA5EC2561CCB}|Jewllery\\Jewllery.csproj|C:\\Users\\Dell\\source\\repos\\Jewllery\\jewllery\\order.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{BC0EFDA6-4779-44A4-A804-FA5EC2561CCB}|Jewllery\\Jewllery.csproj|solutionrelative:jewllery\\order.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "genz.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\Jewllery\\Jewllery\\genz.aspx.cs",
+              "RelativeDocumentMoniker": "Jewllery\\genz.aspx.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\Jewllery\\Jewllery\\genz.aspx.cs",
+              "RelativeToolTip": "Jewllery\\genz.aspx.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAUwF4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T11:10:14.56Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "homepage.aspx",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\Jewllery\\Jewllery\\homepage.aspx",
+              "RelativeDocumentMoniker": "Jewllery\\homepage.aspx",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\Jewllery\\Jewllery\\homepage.aspx",
+              "RelativeToolTip": "Jewllery\\homepage.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-03-17T07:41:08.723Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "mangalsutra.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\Jewllery\\Jewllery\\images\\mangalsutra.aspx.cs",
+              "RelativeDocumentMoniker": "Jewllery\\images\\mangalsutra.aspx.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\Jewllery\\Jewllery\\images\\mangalsutra.aspx.cs",
+              "RelativeToolTip": "Jewllery\\images\\mangalsutra.aspx.cs",
+              "ViewState": "AgIAADQAAAAwMzMzMzMrwDUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T07:27:37.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "mangalsutra.aspx",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\Jewllery\\Jewllery\\images\\mangalsutra.aspx",
+              "RelativeDocumentMoniker": "Jewllery\\images\\mangalsutra.aspx",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\Jewllery\\Jewllery\\images\\mangalsutra.aspx",
+              "RelativeToolTip": "Jewllery\\images\\mangalsutra.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-03-24T07:26:30.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "bracelet.aspx.designer.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\Jewllery\\Jewllery\\bracelet.aspx.designer.cs",
+              "RelativeDocumentMoniker": "Jewllery\\bracelet.aspx.designer.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\Jewllery\\Jewllery\\bracelet.aspx.designer.cs",
+              "RelativeToolTip": "Jewllery\\bracelet.aspx.designer.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T15:53:39.614Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "wedding.aspx.designer.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\Jewllery\\Jewllery\\wedding.aspx.designer.cs",
+              "RelativeDocumentMoniker": "Jewllery\\wedding.aspx.designer.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\Jewllery\\Jewllery\\wedding.aspx.designer.cs",
+              "RelativeToolTip": "Jewllery\\wedding.aspx.designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T15:51:34.584Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "wedding.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\Jewllery\\Jewllery\\wedding.aspx.cs",
+              "RelativeDocumentMoniker": "Jewllery\\wedding.aspx.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\Jewllery\\Jewllery\\wedding.aspx.cs",
+              "RelativeToolTip": "Jewllery\\wedding.aspx.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAUwF8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T15:48:47.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "wedding.aspx",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\Jewllery\\Jewllery\\wedding.aspx",
+              "RelativeDocumentMoniker": "Jewllery\\wedding.aspx",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\Jewllery\\Jewllery\\wedding.aspx",
+              "RelativeToolTip": "Jewllery\\wedding.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-03-23T15:48:28.194Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "manglasutra.aspx",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\Jewllery\\Jewllery\\manglasutra.aspx",
+              "RelativeDocumentMoniker": "Jewllery\\manglasutra.aspx",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\Jewllery\\Jewllery\\manglasutra.aspx",
+              "RelativeToolTip": "Jewllery\\manglasutra.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-03-23T07:33:26.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "adminOrders.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\Jewllery\\Jewllery\\adminOrders.aspx.cs",
+              "RelativeDocumentMoniker": "Jewllery\\adminOrders.aspx.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\Jewllery\\Jewllery\\adminOrders.aspx.cs",
+              "RelativeToolTip": "Jewllery\\adminOrders.aspx.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAIwCkAAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T06:33:06.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "adminOrders.aspx",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\Jewllery\\Jewllery\\adminOrders.aspx",
+              "RelativeDocumentMoniker": "Jewllery\\adminOrders.aspx",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\Jewllery\\Jewllery\\adminOrders.aspx",
+              "RelativeToolTip": "Jewllery\\adminOrders.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-03-23T06:32:04.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "myOrders.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\Jewllery\\Jewllery\\myOrders.aspx.cs",
+              "RelativeDocumentMoniker": "Jewllery\\myOrders.aspx.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\Jewllery\\Jewllery\\myOrders.aspx.cs",
+              "RelativeToolTip": "Jewllery\\myOrders.aspx.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAIwFUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T05:22:29.179Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "myOrders.aspx",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\Jewllery\\Jewllery\\myOrders.aspx",
+              "RelativeDocumentMoniker": "Jewllery\\myOrders.aspx",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\Jewllery\\Jewllery\\myOrders.aspx",
+              "RelativeToolTip": "Jewllery\\myOrders.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-03-23T05:21:37.193Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "order.aspx",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\Jewllery\\Jewllery\\order.aspx",
+              "RelativeDocumentMoniker": "Jewllery\\order.aspx",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\Jewllery\\Jewllery\\order.aspx",
+              "RelativeToolTip": "Jewllery\\order.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-03-23T05:18:58.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "order.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\Jewllery\\Jewllery\\order.aspx.cs",
+              "RelativeDocumentMoniker": "Jewllery\\order.aspx.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\Jewllery\\Jewllery\\order.aspx.cs",
+              "RelativeToolTip": "Jewllery\\order.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T05:18:18.323Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "orderConfirmation.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\Jewllery\\Jewllery\\orderConfirmation.aspx.cs",
+              "RelativeDocumentMoniker": "Jewllery\\orderConfirmation.aspx.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\Jewllery\\Jewllery\\orderConfirmation.aspx.cs",
+              "RelativeToolTip": "Jewllery\\orderConfirmation.aspx.cs",
+              "ViewState": "AgIAAA0AAABAMzMzMzMpwBUAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T04:36:46.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "orderConfirmation.aspx",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\Jewllery\\Jewllery\\orderConfirmation.aspx",
+              "RelativeDocumentMoniker": "Jewllery\\orderConfirmation.aspx",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\Jewllery\\Jewllery\\orderConfirmation.aspx",
+              "RelativeToolTip": "Jewllery\\orderConfirmation.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-03-23T04:35:27.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "homepage.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\Jewllery\\Jewllery\\homepage.aspx.cs",
+              "RelativeDocumentMoniker": "Jewllery\\homepage.aspx.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\Jewllery\\Jewllery\\homepage.aspx.cs",
+              "RelativeToolTip": "Jewllery\\homepage.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T16:02:19.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "checkout.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\Jewllery\\Jewllery\\checkout.aspx.cs",
+              "RelativeDocumentMoniker": "Jewllery\\checkout.aspx.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\Jewllery\\Jewllery\\checkout.aspx.cs",
+              "RelativeToolTip": "Jewllery\\checkout.aspx.cs",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAIwHAAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T13:14:22.935Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "checkout.aspx",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\Jewllery\\Jewllery\\checkout.aspx",
+              "RelativeDocumentMoniker": "Jewllery\\checkout.aspx",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\Jewllery\\Jewllery\\checkout.aspx",
+              "RelativeToolTip": "Jewllery\\checkout.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-03-22T13:13:50.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "genz.aspx",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\Jewllery\\Jewllery\\genz.aspx",
+              "RelativeDocumentMoniker": "Jewllery\\genz.aspx",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\Jewllery\\Jewllery\\genz.aspx",
+              "RelativeToolTip": "Jewllery\\genz.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-03-21T11:09:39.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "diamond.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\Jewllery\\Jewllery\\diamond.aspx.cs",
+              "RelativeDocumentMoniker": "Jewllery\\diamond.aspx.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\Jewllery\\Jewllery\\diamond.aspx.cs",
+              "RelativeToolTip": "Jewllery\\diamond.aspx.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAUwF4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T09:25:33.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "diamond.aspx",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\Jewllery\\Jewllery\\diamond.aspx",
+              "RelativeDocumentMoniker": "Jewllery\\diamond.aspx",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\Jewllery\\Jewllery\\diamond.aspx",
+              "RelativeToolTip": "Jewllery\\diamond.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-03-21T09:24:43.219Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "gold.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\Jewllery\\Jewllery\\gold.aspx.cs",
+              "RelativeDocumentMoniker": "Jewllery\\gold.aspx.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\Jewllery\\Jewllery\\gold.aspx.cs",
+              "RelativeToolTip": "Jewllery\\gold.aspx.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAUwFMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T07:43:10.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "gold.aspx",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\Jewllery\\Jewllery\\gold.aspx",
+              "RelativeDocumentMoniker": "Jewllery\\gold.aspx",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\Jewllery\\Jewllery\\gold.aspx",
+              "RelativeToolTip": "Jewllery\\gold.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-03-21T07:37:38.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "bracelet.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\Jewllery\\Jewllery\\bracelet.aspx.cs",
+              "RelativeDocumentMoniker": "Jewllery\\bracelet.aspx.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\Jewllery\\Jewllery\\bracelet.aspx.cs",
+              "RelativeToolTip": "Jewllery\\bracelet.aspx.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAUwD8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T10:41:23.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "bracelet.aspx",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\Jewllery\\Jewllery\\bracelet.aspx",
+              "RelativeDocumentMoniker": "Jewllery\\bracelet.aspx",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\Jewllery\\Jewllery\\bracelet.aspx",
+              "RelativeToolTip": "Jewllery\\bracelet.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-03-18T10:41:20.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "bangle.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\Jewllery\\Jewllery\\bangle.aspx.cs",
+              "RelativeDocumentMoniker": "Jewllery\\bangle.aspx.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\Jewllery\\Jewllery\\bangle.aspx.cs",
+              "RelativeToolTip": "Jewllery\\bangle.aspx.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAmwE8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T10:26:21.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "rings.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\Jewllery\\Jewllery\\rings.aspx.cs",
+              "RelativeDocumentMoniker": "Jewllery\\rings.aspx.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\Jewllery\\Jewllery\\rings.aspx.cs",
+              "RelativeToolTip": "Jewllery\\rings.aspx.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAUwEkAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T10:11:36.822Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "pendant.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\Jewllery\\Jewllery\\pendant.aspx.cs",
+              "RelativeDocumentMoniker": "Jewllery\\pendant.aspx.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\Jewllery\\Jewllery\\pendant.aspx.cs",
+              "RelativeToolTip": "Jewllery\\pendant.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T04:43:56.217Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "cart1.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\Jewllery\\Jewllery\\cart1.aspx.cs",
+              "RelativeDocumentMoniker": "Jewllery\\cart1.aspx.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\Jewllery\\Jewllery\\cart1.aspx.cs",
+              "RelativeToolTip": "Jewllery\\cart1.aspx.cs",
+              "ViewState": "AgIAAIMAAAAAAAAAAAAIwJEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T04:39:28.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "cart1.aspx",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\Jewllery\\Jewllery\\cart1.aspx",
+              "RelativeDocumentMoniker": "Jewllery\\cart1.aspx",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\Jewllery\\Jewllery\\cart1.aspx",
+              "RelativeToolTip": "Jewllery\\cart1.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-03-18T04:38:20.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "pendant.aspx",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\Jewllery\\Jewllery\\pendant.aspx",
+              "RelativeDocumentMoniker": "Jewllery\\pendant.aspx",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\Jewllery\\Jewllery\\pendant.aspx",
+              "RelativeToolTip": "Jewllery\\pendant.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-03-17T09:07:06.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "bangle.aspx",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\Jewllery\\Jewllery\\bangle.aspx",
+              "RelativeDocumentMoniker": "Jewllery\\bangle.aspx",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\Jewllery\\Jewllery\\bangle.aspx",
+              "RelativeToolTip": "Jewllery\\bangle.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-03-17T08:33:44.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "earring.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\Jewllery\\Jewllery\\earring.aspx.cs",
+              "RelativeDocumentMoniker": "Jewllery\\earring.aspx.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\Jewllery\\Jewllery\\earring.aspx.cs",
+              "RelativeToolTip": "Jewllery\\earring.aspx.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAmwE0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T08:20:14.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "manglasutra.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\Jewllery\\Jewllery\\manglasutra.aspx.cs",
+              "RelativeDocumentMoniker": "Jewllery\\manglasutra.aspx.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\Jewllery\\Jewllery\\manglasutra.aspx.cs",
+              "RelativeToolTip": "Jewllery\\manglasutra.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T07:56:54.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "earring.aspx",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\Jewllery\\Jewllery\\earring.aspx",
+              "RelativeDocumentMoniker": "Jewllery\\earring.aspx",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\Jewllery\\Jewllery\\earring.aspx",
+              "RelativeToolTip": "Jewllery\\earring.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-03-17T07:39:22.779Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "login.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\Jewllery\\Jewllery\\login.aspx.cs",
+              "RelativeDocumentMoniker": "Jewllery\\login.aspx.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\Jewllery\\Jewllery\\login.aspx.cs",
+              "RelativeToolTip": "Jewllery\\login.aspx.cs",
+              "ViewState": "AgIAAG0AAAAAAAAAAAAUwHEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T08:24:17.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "login.aspx",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\Jewllery\\Jewllery\\login.aspx",
+              "RelativeDocumentMoniker": "Jewllery\\login.aspx",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\Jewllery\\Jewllery\\login.aspx",
+              "RelativeToolTip": "Jewllery\\login.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-03-17T07:36:06.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "rings.aspx",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\Jewllery\\Jewllery\\rings.aspx",
+              "RelativeDocumentMoniker": "Jewllery\\rings.aspx",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\Jewllery\\Jewllery\\rings.aspx",
+              "RelativeToolTip": "Jewllery\\rings.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-03-17T07:35:55.97Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

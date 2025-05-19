@@ -1,0 +1,671 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{BC0EFDA6-4779-44A4-A804-FA5EC2561CCB}</ProjectGuid>
+    <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Jewllery</RootNamespace>
+    <AssemblyName>Jewllery</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <UseIISExpress>true</UseIISExpress>
+    <Use64BitIISExpress />
+    <IISExpressSSLPort>44374</IISExpressSSLPort>
+    <IISExpressAnonymousAuthentication />
+    <IISExpressWindowsAuthentication />
+    <IISExpressUseClassicPipelineMode />
+    <UseGlobalApplicationHostFile />
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.CodeDom.Providers.DotNetCompilerPlatform, Version=4.1.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.4.1.0\lib\net472\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Web.Helpers, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.AspNet.WebPages.3.2.9\lib\net45\System.Web.Helpers.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.Mvc, Version=5.2.9.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.AspNet.Mvc.5.2.9\lib\net45\System.Web.Mvc.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.Razor, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.AspNet.Razor.3.2.9\lib\net45\System.Web.Razor.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.WebPages, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.AspNet.WebPages.3.2.9\lib\net45\System.Web.WebPages.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.WebPages.Deployment, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.AspNet.WebPages.3.2.9\lib\net45\System.Web.WebPages.Deployment.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.WebPages.Razor, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.AspNet.WebPages.3.2.9\lib\net45\System.Web.WebPages.Razor.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.EnterpriseServices" />
+    <Reference Include="System.Web.DynamicData" />
+    <Reference Include="System.Web.Entity" />
+    <Reference Include="System.Web.ApplicationServices" />
+    <Reference Include="Microsoft.Web.Infrastructure, Version=2.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <Private>True</Private>
+      <HintPath>..\packages\Microsoft.Web.Infrastructure.2.0.0\lib\net40\Microsoft.Web.Infrastructure.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ScriptManager.MSAjax">
+      <HintPath>..\packages\Microsoft.AspNet.ScriptManager.MSAjax.5.0.0\lib\net45\Microsoft.ScriptManager.MSAjax.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ScriptManager.WebForms">
+      <HintPath>..\packages\Microsoft.AspNet.ScriptManager.WebForms.5.0.0\lib\net45\Microsoft.ScriptManager.WebForms.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.Optimization, Version=1.1.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35">
+      <HintPath>..\packages\Microsoft.AspNet.Web.Optimization.1.1.3\lib\net40\System.Web.Optimization.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json">
+      <HintPath>..\packages\Newtonsoft.Json.13.0.3\lib\net45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="WebGrease">
+      <Private>True</Private>
+      <HintPath>..\packages\WebGrease.1.6.0\lib\WebGrease.dll</HintPath>
+    </Reference>
+    <Reference Include="Antlr3.Runtime">
+      <Private>True</Private>
+      <HintPath>..\packages\Antlr.3.5.0.2\lib\Antlr3.Runtime.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.AspNet.Web.Optimization.WebForms">
+      <Private>True</Private>
+      <HintPath>..\packages\Microsoft.AspNet.Web.Optimization.WebForms.1.1.3\lib\net45\Microsoft.AspNet.Web.Optimization.WebForms.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.AspNet.FriendlyUrls">
+      <HintPath>..\packages\Microsoft.AspNet.FriendlyUrls.Core.1.0.2\lib\net45\Microsoft.AspNet.FriendlyUrls.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="2. orders.aspx" />
+    <Content Include="About.aspx" />
+    <Content Include="adminOrders.aspx" />
+    <Content Include="bangle.aspx" />
+    <Content Include="bracelet.aspx" />
+    <Content Include="cart.aspx" />
+    <Content Include="cart1.aspx" />
+    <Content Include="chains1.aspx" />
+    <Content Include="checkout.aspx" />
+    <Content Include="Contact.aspx" />
+    <Content Include="Content\bootstrap-grid.css" />
+    <Content Include="Content\bootstrap-grid.min.css" />
+    <Content Include="Content\bootstrap-grid.rtl.css" />
+    <Content Include="Content\bootstrap-grid.rtl.min.css" />
+    <Content Include="Content\bootstrap-reboot.css" />
+    <Content Include="Content\bootstrap-reboot.min.css" />
+    <Content Include="Content\bootstrap-reboot.rtl.css" />
+    <Content Include="Content\bootstrap-reboot.rtl.min.css" />
+    <Content Include="Content\bootstrap-utilities.css" />
+    <Content Include="Content\bootstrap-utilities.min.css" />
+    <Content Include="Content\bootstrap-utilities.rtl.css" />
+    <Content Include="Content\bootstrap-utilities.rtl.min.css" />
+    <Content Include="Content\bootstrap.css" />
+    <Content Include="Content\bootstrap.min.css" />
+    <Content Include="Content\bootstrap.rtl.css" />
+    <Content Include="Content\bootstrap.rtl.min.css" />
+    <Content Include="Content\Site.css" />
+    <Content Include="Default.aspx" />
+    <Content Include="diamond.aspx" />
+    <Content Include="earring.aspx" />
+    <Content Include="favicon.ico" />
+    <Content Include="genz.aspx" />
+    <Content Include="Global.asax" />
+    <Content Include="gold.aspx" />
+    <Content Include="homepage.aspx" />
+    <Content Include="images\bangle.jpg" />
+    <Content Include="images\bangles banner.jpg" />
+    <Content Include="images\bangles1.jpg" />
+    <Content Include="images\bangles2.jpg" />
+    <Content Include="images\bangles3.jpg" />
+    <Content Include="images\bangles4.jpg" />
+    <Content Include="images\bangles5.jpg" />
+    <Content Include="images\bangles6.jpg" />
+    <Content Include="images\bangles7.jpg" />
+    <Content Include="images\bangles8.jpg" />
+    <Content Include="images\bar1.jpg" />
+    <Content Include="images\bar2.jpg" />
+    <Content Include="images\bar3.jpg" />
+    <Content Include="images\bar4.jpg" />
+    <Content Include="images\bar5.jpg" />
+    <Content Include="images\bar6.jpg" />
+    <Content Include="images\bar7.jpg" />
+    <Content Include="images\bar8.jpg" />
+    <Content Include="images\bracelet banner.jpg" />
+    <Content Include="images\bracelet1.jpg" />
+    <Content Include="images\chain.jpg" />
+    <Content Include="images\chain1.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="images\chain2.jpg" />
+    <Content Include="images\chain3.jpg" />
+    <Content Include="images\chain4.jpg" />
+    <Content Include="images\chain5.jpg" />
+    <Content Include="images\chain6.jpg" />
+    <Content Include="images\chain7.jpg" />
+    <Content Include="images\chain8.jpg" />
+    <Content Include="images\chains pendents.jpg" />
+    <Content Include="images\chechout.jpg" />
+    <Content Include="images\checkout.jpg" />
+    <Content Include="images\checkout1.jpg" />
+    <Content Include="images\dailywear.jpg" />
+    <Content Include="images\diamond.jpg" />
+    <Content Include="images\diamond1.jpg" />
+    <Content Include="images\diamond10.jpg" />
+    <Content Include="images\diamond11.jpg" />
+    <Content Include="images\diamond12.jpg" />
+    <Content Include="images\diamond13.jpg" />
+    <Content Include="images\diamond14.jpg" />
+    <Content Include="images\diamond15.jpg" />
+    <Content Include="images\diamond2.jpg" />
+    <Content Include="images\diamond3.jpg" />
+    <Content Include="images\diamond4.jpg" />
+    <Content Include="images\diamond5.jpg" />
+    <Content Include="images\diamond6.jpg" />
+    <Content Include="images\diamond7.jpg" />
+    <Content Include="images\diamond8.jpg" />
+    <Content Include="images\diamond9.jpg" />
+    <Content Include="images\dimond banner.jpg" />
+    <Content Include="images\earring.jpg" />
+    <Content Include="images\earring1.jpg" />
+    <Content Include="images\earring2.jpg" />
+    <Content Include="images\earring3.jpg" />
+    <Content Include="images\earring4.jpg" />
+    <Content Include="images\earring5.jpg" />
+    <Content Include="images\earring6.jpg" />
+    <Content Include="images\earring7.jpg" />
+    <Content Include="images\earring8.jpg" />
+    <Content Include="images\earrings banner.jpg" />
+    <Content Include="images\gen1.jpg" />
+    <Content Include="images\gen10.jpg" />
+    <Content Include="images\gen11.jpg" />
+    <Content Include="images\gen12.jpg" />
+    <Content Include="images\gen2.jpg" />
+    <Content Include="images\gen3.jpg" />
+    <Content Include="images\gen4.jpg" />
+    <Content Include="images\gen5.jpg" />
+    <Content Include="images\gen6.jpg" />
+    <Content Include="images\gen7.jpg" />
+    <Content Include="images\gen8.jpg" />
+    <Content Include="images\gen9.jpg" />
+    <Content Include="images\genz banner.jpg" />
+    <Content Include="images\gold banner.jpg" />
+    <Content Include="images\gold new.jpg" />
+    <Content Include="images\gold.jpg" />
+    <Content Include="images\gold1.jpg" />
+    <Content Include="images\gold10.jpg" />
+    <Content Include="images\gold11.jpg" />
+    <Content Include="images\gold12.jpg" />
+    <Content Include="images\gold13.jpg" />
+    <Content Include="images\gold14.jpg" />
+    <Content Include="images\gold15.jpg" />
+    <Content Include="images\gold2.jpg" />
+    <Content Include="images\gold3.jpg" />
+    <Content Include="images\gold4.jpg" />
+    <Content Include="images\gold5.jpg" />
+    <Content Include="images\gold6.jpg" />
+    <Content Include="images\gold7.jpg" />
+    <Content Include="images\gold8.jpg" />
+    <Content Include="images\gold9.jpg" />
+    <Content Include="images\goldcoll.jpg" />
+    <Content Include="images\header.jpg" />
+    <Content Include="images\header1.jpg" />
+    <Content Include="images\header2.jpg" />
+    <Content Include="images\images.jpg" />
+    <Content Include="images\images2.jpg" />
+    <Content Include="images\images3.jpg" />
+    <Content Include="images\images5.jpg" />
+    <Content Include="images\images6.jpg" />
+    <Content Include="images\images7.jpg" />
+    <Content Include="images\images\bracelet1.jpg" />
+    <Content Include="images\images\chain.jpg" />
+    <Content Include="images\images\earring.jpg" />
+    <Content Include="images\images\images.jpg" />
+    <Content Include="images\images\images2.jpg" />
+    <Content Include="images\images\images3.jpg" />
+    <Content Include="images\images\jewllery1.jpg" />
+    <Content Include="images\images\maglasutra.jpg" />
+    <Content Include="images\images\ring.jpg" />
+    <Content Include="images\images\ring1.jpg" />
+    <Content Include="images\images\ring10.jpg" />
+    <Content Include="images\images\ring11.jpg" />
+    <Content Include="images\images\ring12.jpg" />
+    <Content Include="images\images\ring13.jpg" />
+    <Content Include="images\images\ring14.jpg" />
+    <Content Include="images\images\ring15.jpg" />
+    <Content Include="images\images\ring2.jpg" />
+    <Content Include="images\images\ring3.jpg" />
+    <Content Include="images\images\ring4.jpg" />
+    <Content Include="images\images\ring5.jpg" />
+    <Content Include="images\images\ring6.jpg" />
+    <Content Include="images\images\ring7.jpg" />
+    <Content Include="images\images\ring8.jpg" />
+    <Content Include="images\images\ring9.jpg" />
+    <Content Include="images\jewllery1.jpg" />
+    <Content Include="images\login background.jpg" />
+    <Content Include="images\maglasutra.jpg" />
+    <Content Include="images\mangalsutra.aspx" />
+    <Content Include="images\manglasutra1.jpg" />
+    <Content Include="images\manglasutra2.jpg" />
+    <Content Include="images\manglasutra3.jpg" />
+    <Content Include="images\manglasutra4.jpg" />
+    <Content Include="images\manglasutra5.jpg" />
+    <Content Include="images\manglasutra6.jpg" />
+    <Content Include="images\manglasutra7.jpg" />
+    <Content Include="images\manglasutra8.jpg" />
+    <Content Include="images\pendant1.jpg" />
+    <Content Include="images\pendant2.jpg" />
+    <Content Include="images\pendant3.jpg" />
+    <Content Include="images\pendant4.jpg" />
+    <Content Include="images\pendant5.jpg" />
+    <Content Include="images\pendant6.jpg" />
+    <Content Include="images\pendant7.jpg" />
+    <Content Include="images\pendant8.jpg" />
+    <Content Include="images\pendantimg.jpg" />
+    <Content Include="images\ring.jpg" />
+    <Content Include="images\ring1.aspx" />
+    <Content Include="images\ring1.jpg" />
+    <Content Include="images\ring10.jpg" />
+    <Content Include="images\ring11.jpg" />
+    <Content Include="images\ring12.jpg" />
+    <Content Include="images\ring13.jpg" />
+    <Content Include="images\ring14.jpg" />
+    <Content Include="images\ring15.jpg" />
+    <Content Include="images\ring2.jpg" />
+    <Content Include="images\ring3.jpg" />
+    <Content Include="images\ring4.jpg" />
+    <Content Include="images\ring5.jpg" />
+    <Content Include="images\ring6.jpg" />
+    <Content Include="images\ring7.jpg" />
+    <Content Include="images\ring8.jpg" />
+    <Content Include="images\ring9.jpg" />
+    <Content Include="images\rings coll.jpg" />
+    <Content Include="images\tikka.jpg" />
+    <Content Include="images\wedding banner.jpg" />
+    <Content Include="images\wedding1.jpg" />
+    <Content Include="images\wedding10.jpg" />
+    <Content Include="images\wedding11.jpg" />
+    <Content Include="images\wedding12.jpg" />
+    <Content Include="images\wedding13.jpg" />
+    <Content Include="images\wedding14.jpg" />
+    <Content Include="images\wedding15.jpg" />
+    <Content Include="images\wedding2.jpg" />
+    <Content Include="images\wedding3.jpg" />
+    <Content Include="images\wedding4.jpg" />
+    <Content Include="images\wedding5.jpg" />
+    <Content Include="images\wedding6.jpg" />
+    <Content Include="images\wedding7.jpg" />
+    <Content Include="images\wedding8.jpg" />
+    <Content Include="images\wedding9.jpg" />
+    <Content Include="login.aspx" />
+    <Content Include="manglasutra.aspx" />
+    <Content Include="myOrders.aspx" />
+    <Content Include="order.aspx" />
+    <Content Include="orderConfirmation.aspx" />
+    <Content Include="pendant.aspx" />
+    <Content Include="rings.aspx" />
+    <Content Include="Scripts\bootstrap.bundle.js" />
+    <Content Include="Scripts\bootstrap.bundle.min.js" />
+    <Content Include="Scripts\bootstrap.esm.js" />
+    <Content Include="Scripts\bootstrap.esm.min.js" />
+    <Content Include="Scripts\bootstrap.js" />
+    <Content Include="Scripts\bootstrap.min.js" />
+    <Content Include="Scripts\bootstrap.min.js.map" />
+    <Content Include="Scripts\bootstrap.js.map" />
+    <Content Include="Scripts\bootstrap.esm.min.js.map" />
+    <Content Include="Scripts\bootstrap.esm.js.map" />
+    <Content Include="Scripts\bootstrap.bundle.min.js.map" />
+    <Content Include="Scripts\bootstrap.bundle.js.map" />
+    <Content Include="Content\bootstrap.rtl.min.css.map" />
+    <Content Include="Content\bootstrap.rtl.css.map" />
+    <Content Include="Content\bootstrap.min.css.map" />
+    <Content Include="Content\bootstrap.css.map" />
+    <Content Include="Content\bootstrap-utilities.rtl.min.css.map" />
+    <Content Include="Content\bootstrap-utilities.rtl.css.map" />
+    <Content Include="Content\bootstrap-utilities.min.css.map" />
+    <Content Include="Content\bootstrap-utilities.css.map" />
+    <Content Include="Content\bootstrap-reboot.rtl.min.css.map" />
+    <Content Include="Content\bootstrap-reboot.rtl.css.map" />
+    <Content Include="Content\bootstrap-reboot.min.css.map" />
+    <Content Include="Content\bootstrap-reboot.css.map" />
+    <Content Include="Content\bootstrap-grid.rtl.min.css.map" />
+    <Content Include="Content\bootstrap-grid.rtl.css.map" />
+    <Content Include="Content\bootstrap-grid.min.css.map" />
+    <Content Include="Content\bootstrap-grid.css.map" />
+    <Content Include="Product.cshtml" />
+    <Content Include="wedding.aspx" />
+    <None Include="Scripts\jquery-3.7.0.intellisense.js" />
+    <Content Include="Scripts\jquery-3.7.0.js" />
+    <Content Include="Scripts\jquery-3.7.0.min.js" />
+    <Content Include="Scripts\jquery-3.7.0.slim.js" />
+    <Content Include="Scripts\jquery-3.7.0.slim.min.js" />
+    <Content Include="Scripts\modernizr-2.8.3.js" />
+    <Content Include="Scripts\WebForms\DetailsView.js" />
+    <Content Include="Scripts\WebForms\Focus.js" />
+    <Content Include="Scripts\WebForms\GridView.js" />
+    <Content Include="Scripts\WebForms\Menu.js" />
+    <Content Include="Scripts\WebForms\MenuStandards.js" />
+    <Content Include="Scripts\WebForms\MSAjax\MicrosoftAjax.js" />
+    <Content Include="Scripts\WebForms\MSAjax\MicrosoftAjaxApplicationServices.js" />
+    <Content Include="Scripts\WebForms\MSAjax\MicrosoftAjaxComponentModel.js" />
+    <Content Include="Scripts\WebForms\MSAjax\MicrosoftAjaxCore.js" />
+    <Content Include="Scripts\WebForms\MSAjax\MicrosoftAjaxGlobalization.js" />
+    <Content Include="Scripts\WebForms\MSAjax\MicrosoftAjaxHistory.js" />
+    <Content Include="Scripts\WebForms\MSAjax\MicrosoftAjaxNetwork.js" />
+    <Content Include="Scripts\WebForms\MSAjax\MicrosoftAjaxSerialization.js" />
+    <Content Include="Scripts\WebForms\MSAjax\MicrosoftAjaxTimer.js" />
+    <Content Include="Scripts\WebForms\MSAjax\MicrosoftAjaxWebForms.js" />
+    <Content Include="Scripts\WebForms\MSAjax\MicrosoftAjaxWebServices.js" />
+    <Content Include="Scripts\WebForms\SmartNav.js" />
+    <Content Include="Scripts\WebForms\TreeView.js" />
+    <Content Include="Scripts\WebForms\WebForms.js" />
+    <Content Include="Scripts\WebForms\WebParts.js" />
+    <Content Include="Scripts\WebForms\WebUIValidation.js" />
+    <Content Include="Site.Master" />
+    <Content Include="videos\jewllery video.mp4" />
+    <Content Include="ViewSwitcher.ascx" />
+    <Content Include="Web.config" />
+    <Content Include="Bundle.config" />
+    <Content Include="Site.Mobile.Master" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="2. orders.aspx.cs">
+      <DependentUpon>2. orders.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="2. orders.aspx.designer.cs">
+      <DependentUpon>2. orders.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="adminOrders.aspx.cs">
+      <DependentUpon>adminOrders.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="adminOrders.aspx.designer.cs">
+      <DependentUpon>adminOrders.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="App_Start\BundleConfig.cs" />
+    <Compile Include="About.aspx.cs">
+      <DependentUpon>About.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="About.aspx.designer.cs">
+      <DependentUpon>About.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="App_Start\RouteConfig.cs" />
+    <Compile Include="bangle.aspx.cs">
+      <DependentUpon>bangle.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="bangle.aspx.designer.cs">
+      <DependentUpon>bangle.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="bracelet.aspx.cs">
+      <DependentUpon>bracelet.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="bracelet.aspx.designer.cs">
+      <DependentUpon>bracelet.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="cart.aspx.cs">
+      <DependentUpon>cart.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="cart.aspx.designer.cs">
+      <DependentUpon>cart.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="cart1.aspx.cs">
+      <DependentUpon>cart1.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="cart1.aspx.designer.cs">
+      <DependentUpon>cart1.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="chains1.aspx.cs">
+      <DependentUpon>chains1.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="chains1.aspx.designer.cs">
+      <DependentUpon>chains1.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="checkout.aspx.cs">
+      <DependentUpon>checkout.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="checkout.aspx.designer.cs">
+      <DependentUpon>checkout.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Contact.aspx.cs">
+      <DependentUpon>Contact.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Contact.aspx.designer.cs">
+      <DependentUpon>Contact.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Default.aspx.cs">
+      <DependentUpon>Default.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Default.aspx.designer.cs">
+      <DependentUpon>Default.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="diamond.aspx.cs">
+      <DependentUpon>diamond.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="diamond.aspx.designer.cs">
+      <DependentUpon>diamond.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="earring.aspx.cs">
+      <DependentUpon>earring.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="earring.aspx.designer.cs">
+      <DependentUpon>earring.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="genz.aspx.cs">
+      <DependentUpon>genz.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="genz.aspx.designer.cs">
+      <DependentUpon>genz.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Global.asax.cs">
+      <DependentUpon>Global.asax</DependentUpon>
+    </Compile>
+    <Compile Include="gold.aspx.cs">
+      <DependentUpon>gold.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="gold.aspx.designer.cs">
+      <DependentUpon>gold.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="homepage.aspx.cs">
+      <DependentUpon>homepage.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="homepage.aspx.designer.cs">
+      <DependentUpon>homepage.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="images\mangalsutra.aspx.cs">
+      <DependentUpon>mangalsutra.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="images\mangalsutra.aspx.designer.cs">
+      <DependentUpon>mangalsutra.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="images\ring1.aspx.cs">
+      <DependentUpon>ring1.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="images\ring1.aspx.designer.cs">
+      <DependentUpon>ring1.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="login.aspx.cs">
+      <DependentUpon>login.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="login.aspx.designer.cs">
+      <DependentUpon>login.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="manglasutra.aspx.cs">
+      <DependentUpon>manglasutra.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="manglasutra.aspx.designer.cs">
+      <DependentUpon>manglasutra.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="myOrders.aspx.cs">
+      <DependentUpon>myOrders.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="myOrders.aspx.designer.cs">
+      <DependentUpon>myOrders.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="order.aspx.cs">
+      <DependentUpon>order.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="order.aspx.designer.cs">
+      <DependentUpon>order.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="orderConfirmation.aspx.cs">
+      <DependentUpon>orderConfirmation.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="orderConfirmation.aspx.designer.cs">
+      <DependentUpon>orderConfirmation.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="pendant.aspx.cs">
+      <DependentUpon>pendant.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="pendant.aspx.designer.cs">
+      <DependentUpon>pendant.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="rings.aspx.cs">
+      <DependentUpon>rings.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="rings.aspx.designer.cs">
+      <DependentUpon>rings.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Site.Master.cs">
+      <DependentUpon>Site.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Site.Master.designer.cs">
+      <DependentUpon>Site.Master</DependentUpon>
+    </Compile>
+    <Compile Include="Site.Mobile.Master.cs">
+      <DependentUpon>Site.Mobile.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Site.Mobile.Master.designer.cs">
+      <DependentUpon>Site.Mobile.Master</DependentUpon>
+    </Compile>
+    <Compile Include="ViewSwitcher.ascx.cs">
+      <DependentUpon>ViewSwitcher.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ViewSwitcher.ascx.designer.cs">
+      <DependentUpon>ViewSwitcher.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="wedding.aspx.cs">
+      <DependentUpon>wedding.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="wedding.aspx.designer.cs">
+      <DependentUpon>wedding.aspx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="App_Data\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
+    <Content Include="Scripts\jquery-3.7.0.slim.min.map" />
+    <Content Include="Scripts\jquery-3.7.0.min.map" />
+    <None Include="Web.Debug.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </None>
+    <None Include="Web.Release.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </None>
+  </ItemGroup>
+  <PropertyGroup>
+    <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
+    <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
+  </PropertyGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(VSToolsPath)\WebApplications\Microsoft.WebApplication.targets" Condition="'$(VSToolsPath)' != ''" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" Condition="false" />
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>True</UseIIS>
+          <AutoAssignPort>True</AutoAssignPort>
+          <DevelopmentServerPort>64406</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>https://localhost:44374/</IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <UseCustomServer>False</UseCustomServer>
+          <CustomServerUrl>
+          </CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+  <Import Project="..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.4.1.0\build\net472\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.targets" Condition="Exists('..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.4.1.0\build\net472\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.targets')" />
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>This project references NuGet package(s) that are missing on this computer. Use NuGet Package Restore to download them.  For more information, see http://go.microsoft.com/fwlink/?LinkID=322105. The missing file is {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.4.1.0\build\net472\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.targets')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.4.1.0\build\net472\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.targets'))" />
+  </Target>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
